@@ -1,5 +1,3 @@
-$red: red;
+@use './components/body';
 
-body {
-  background: $red;
-}
+@use './components/cards';
